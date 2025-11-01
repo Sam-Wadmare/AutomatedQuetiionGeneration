@@ -1,4 +1,4 @@
-# AutomatedQuetiionGeneration
+# AutomatedQuetionGeneration
 # 🤖 Smart Aptitude Question Generator
 
 An **AI-powered web app** that automatically generates aptitude questions using **Natural Language Processing (NLP)** and a **Transformer model (T5)**.  
