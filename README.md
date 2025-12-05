@@ -30,5 +30,5 @@ This project combines **Flask**, **Hugging Face Transformers**, and **Pandas** t
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/smart-aptitude-generator.git
+git clone https://github.com/Sam-Wadmare/smart-aptitude-generator.git
 cd smart-aptitude-generator
